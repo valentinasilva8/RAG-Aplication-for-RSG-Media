@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.so
+
+# Node
+node_modules/
+.next/
+.cache/
+dist/
+build/
+
+# Environment and Config
+.env
+.env.local
+config.ini
+**/config.ini
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Other
+*.log
+*.zip
+data/
